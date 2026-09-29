@@ -1,0 +1,4 @@
+Python Programming is easy to learn.
+Python is useful for beginners.
+This file contains some vowels and words.
+We are learning file handling in Python.
