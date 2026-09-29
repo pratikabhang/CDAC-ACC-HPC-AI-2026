@@ -1,0 +1,17 @@
+{
+    "job_name": "matrix_benchmark",
+    "num_workers": 8,
+    "chunk_size": 1000,
+    "timeout_sec": 30.0,
+    "retry_on_failure": true,
+    "input_files": [
+        "data_part1.csv",
+        "data_part2.csv",
+        "data_part3.csv"
+    ],
+    "output_dir": "/results/run_001",
+    "parameters": {
+        "algorithm": "strassen",
+        "precision": "double"
+    }
+}
