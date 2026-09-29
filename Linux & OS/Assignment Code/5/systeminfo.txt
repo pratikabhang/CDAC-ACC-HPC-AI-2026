@@ -1,0 +1,3 @@
+Current Date: Fri Jul 31 10:19:21 PM IST 2026
+Current Working Directory: /home/pratik
+Logged-in Username: pratik

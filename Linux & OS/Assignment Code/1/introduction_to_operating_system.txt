@@ -1,0 +1,46 @@
+Introduction to Operating System (OS)
+
+An Operating System (OS) is system software that acts as an interface
+between the user and computer hardware. It manages all hardware and
+software resources, runs application programs, and provides services to
+users. An operating system makes it easy for users to interact with the
+computer and ensures that programs run efficiently and securely.
+
+Questions and Answers
+
+1.  What is an Operating System (OS)? Answer: An Operating System is
+    system software that acts as an interface between the user and
+    computer hardware.
+
+2.  What are the main functions of an Operating System? Answer:
+
+-   Process management
+-   Memory management
+-   File management
+-   Device management
+-   Security
+-   User interface
+
+3.  What is process management? Answer: It manages the execution of
+    programs and allocates CPU time.
+
+4.  What is memory management? Answer: It allocates and manages the
+    computer’s memory efficiently.
+
+5.  What is file management? Answer: It manages files, folders, and
+    storage devices.
+
+6.  What is device management? Answer: It controls input and output
+    devices such as keyboards, printers, and disks.
+
+7.  What is multitasking? Answer: It allows multiple programs to run at
+    the same time.
+
+8.  What is multi-user? Answer: It allows multiple users to use the same
+    computer system.
+
+9.  Why is security important in an OS? Answer: It protects user data
+    and prevents unauthorized access.
+
+10. Give examples of Operating Systems. Answer: Linux, UNIX, Windows,
+    macOS, Android, and iOS.

@@ -1,0 +1,65 @@
+1.  Why was UNIX developed instead of using existing operating systems?
+    UNIX was developed because older operating systems were complex,
+    expensive, and tied to specific hardware. UNIX was designed to be
+    simple, fast, and support many users.
+
+2.  Difference between multi-user and multitasking? Multi-user: Many
+    users can use the same computer at the same time. Multitasking: One
+    or more users can run many programs at the same time. Example: You
+    can listen to music while writing a document.
+
+3.  Why many small programs? Small programs are easier to build, test,
+    and combine. Each program does one job well.
+
+4.  Purpose of pipe (|)? A pipe sends the output of one command to
+    another. Example: ls | grep txt
+
+5.  ‘Everything is a file’ means? Files, folders, devices, and many
+    system resources are treated like files.
+
+6.  Why rewriting UNIX in C was revolutionary? C made UNIX easier to
+    understand, maintain, and run on different computers.
+
+7.  Why is portability important? It allows the operating system to run
+    on different hardware with fewer changes.
+
+8.  Linux filesystem vs Windows drives? Linux has one root folder (/).
+    Windows uses drive letters like C: and D:.
+
+9.  Role of the shell? The shell takes user commands and sends them to
+    the Linux kernel.
+
+10. UNIX concepts used in Linux? Multi-user, multitasking, file
+    permissions, shell, pipes, and ‘everything is a file’.
+
+11. What problem did Linux solve? Linux is free, open source, and works
+    on many computers, unlike costly commercial UNIX.
+
+12. Difference between Linux and UNIX? UNIX is mostly commercial. Linux
+    is free and open source.
+
+13. What is open source? Anyone can view, change, and share the source
+    code.
+
+14. What is the Linux kernel? The kernel is the core of Linux. It
+    manages hardware, memory, and processes.
+
+15. Terminal vs shell? Terminal is the window. Shell is the program that
+    runs commands inside it. Example: GNOME Terminal + Bash shell.
+
+16. What happens when you run ‘mkdir test’? The shell sends the command
+    to the kernel, and the kernel creates a new folder named ‘test’.
+
+17. Why can’t apps talk directly to hardware? For security and
+    stability. The kernel safely controls hardware access.
+
+18. Five responsibilities of the Linux kernel?
+    Process management, Memory management, File management, Device management, Security
+
+19. What is a Linux distribution? A Linux distribution includes the
+    kernel plus software, tools, and applications. Example: Ubuntu,
+    CentOS Stream, Fedora.
+
+20. Which distribution would you choose and why? Beginner: Ubuntu (easy
+    to use) Enterprise Server: CentOS Stream or RHEL (stable)
+    Penetration Testing: Kali Linux (security tools included).

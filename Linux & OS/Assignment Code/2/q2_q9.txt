@@ -1,0 +1,67 @@
+Q2) Display all files, including hidden files, in long listing format.
+ls -la
+
+------------------------------------------------------------------------
+
+Q3) List all files sorted by modification time, with the newest file
+first. ls -lt
+
+------------------------------------------------------------------------
+
+Q4) Display only directories in the current directory. 
+ls -d */
+
+------------------------------------------------------------------------
+
+Q5) List all files in reverse alphabetical order. 
+ls -r
+
+------------------------------------------------------------------------
+
+Q6) Display the size of each file in a human-readable format and sort
+them from largest to smallest. 
+ls -lhS
+
+------------------------------------------------------------------------
+
+Q7) Stop One Process, Continue Another (use sleep for example)
+
+sleep 1000 & sleep 2000 &
+
+ps
+
+kill -STOP
+
+kill -CONT
+
+ps -o pid,stat,cmd -p ,
+
+------------------------------------------------------------------------
+
+Q8) Kill Only One Process Among Multiple Similar Processes
+
+sleep 5000 & sleep 5000 & sleep 5000 &
+
+ps aux | grep sleep
+
+kill
+
+ps aux | grep sleep
+
+------------------------------------------------------------------------
+
+Q9) Stopped Process Doesn’t Exit with Ctrl+C
+
+sleep 2000
+
+Ctrl + Z
+
+jobs
+
+kill %1
+
+kill -9 %1
+
+jobs
+
+ps -p
