@@ -1,3 +1,0 @@
-mpi4py==4.1.2
-numpy==2.5.3
-openmpi==5.0.11

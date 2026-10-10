@@ -1,0 +1,21 @@
+==========================================
+SLURM_CLUSTER_NAME = paramutkarsh
+SLURM_ARRAY_JOB_ID = 
+SLURM_ARRAY_TASK_ID = 
+SLURM_ARRAY_TASK_COUNT = 
+SLURM_ARRAY_TASK_MAX = 
+SLURM_ARRAY_TASK_MIN = 
+SLURM_JOB_ACCOUNT = cdac
+SLURM_JOB_ID = 182766
+SLURM_JOB_NAME = test_job
+SLURM_JOB_NODELIST = hm014
+SLURM_JOB_USER = lochannk
+SLURM_JOB_UID = 21684
+SLURM_JOB_PARTITION = hm
+SLURM_TASK_PID = 23148
+SLURM_SUBMIT_DIR = /home/lochannk/program
+SLURM_CPUS_ON_NODE = 10
+SLURM_NTASKS = 10
+SLURM_TASK_PID = 23148
+==========================================
+elapsed time = 26.977046 seconds.
